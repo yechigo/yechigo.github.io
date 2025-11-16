@@ -4,7 +4,16 @@
 
 @import 'modern-resume-theme';
 
-.header-contianer .title {
-    word-break: break-all;
-    white-space: pre-wrap;
+ .header-contianer .title::before {
+    content: '';
   }
+
+  .header-contianer .title {
+    white-space: pre-line;
+  }
+
+  /* | を改行に変換 */
+  .header-contianer .title::after {
+    content: '';
+  }
+
