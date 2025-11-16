@@ -30,10 +30,10 @@ linkedin_username: yechigo
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+# additional_links:
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,29 +48,39 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  私は Repro株式会社で Chief Strategy Officer を務め、企業戦略、財務計画、M&A、IPO準備を統括しています。
+  PwC と KPMG において約10年間、企業再生・戦略立案・ビジネスデューデリジェンスに従事し、テクノロジー、SaaS、消費財など多様な業界でクライアント支援を行ってきました。
+  現職では、Repro の経営戦略の策定から全社のオペレーション改善、資金調達、経営管理体制の強化まで幅広い領域を担当しています。加えて、コーポレート部門（財務・経理、人事、労務、法務、総務、IT/DX、広報、経営企画）を統合的にマネジメントし、上場準備および中長期的な企業価値向上に向けた基盤構築を推進しています。
+  
+  強みは、コンサルティングで培った“定量分析と構造化”、および事業会社での “意思決定と実行のリード” の両輪を兼ね備えている点です。複雑な状況を整理し、最適な打ち手に落とし込み、組織全体を巻き込みながら成果につなげることを得意としています。
+  
+  専門領域は、
+  企業戦略・事業計画策定
+  ファイナンス（管理会計、資金調達）
+  M&A（戦略策定、デューデリジェンス）
+  組織・オペレーション改善
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  今後は、経営とファイナンスに関する専門性を深化させながら、より広範な企業の価値創造に貢献し得る経営者としての視座を磨いていくことを目指しています。
 
-content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+# content:
+#   - title: Projects # Title for the section
+#     layout: list # Type of content section (list/text)
+#     content:
+#       - layout: top-middle
+#         title: Super awesome project
+#         link: github.com/sproogen
+#         # link_text: Project Website
+#         additional_links:
+#           - title:  sproogen/modern-resume-theme
+#             icon: fab fa-github
+#             url: github.com/sproogen/modern-resume-theme
+#           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#           #   icon: fab fa-github
+#           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+#         quote: >
+#           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+#         description: | # this will include new lines to allow paragraphs
+#           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
