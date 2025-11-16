@@ -3,3 +3,8 @@
 ---
 
 @import 'modern-resume-theme';
+
+.header-contianer .title {
+    word-break: break-all;
+    white-space: pre-wrap;
+  }
