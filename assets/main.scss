@@ -3,17 +3,3 @@
 ---
 
 @import 'modern-resume-theme';
-
- .header-contianer .title::before {
-    content: '';
-  }
-
-  .header-contianer .title {
-    white-space: pre-line;
-  }
-
-  /* | を改行に変換 */
-  .header-contianer .title::after {
-    content: '';
-  }
-
