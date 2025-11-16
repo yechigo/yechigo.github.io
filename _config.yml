@@ -8,24 +8,24 @@ version: 2
 # Personal info
 name: Yosuke Echigo
 title: Cheif Strategy Officer @Repro.io, 代表取締役 @株式会社TCIC
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+email: yosuke.echigo@gmail.com
+website: https://yechigo.github.io/
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+# twitter_username: facespics
+# github_username:  sproogen
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
-# facebook_username: jekyll
+facebook_username: yosuke.echigo
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+# instagram_username: jameswgrant
+linkedin_username: yechigo
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
