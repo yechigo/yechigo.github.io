@@ -3,3 +3,8 @@
 ---
 
 @import 'modern-resume-theme';
+
+// カスタムスタイル: ヘッダーを中央揃えに
+  .header-contianer .header-left {
+    text-align: center;
+  }
